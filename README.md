@@ -12,8 +12,7 @@ This project is a web application that predicts the likelihood of a country winn
 - [Data Preprocessing](#data-preprocessing)
 - [Model Training](#model-training)
 - [Results and Visualizations](#results-and-visualizations)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -76,3 +75,7 @@ Model Performance Metrics:
 - Identifies the more accurate model.
 - Histogram: Visualization of win percentage by country for the selected sport.
 - Power BI Reports: Embedded Power BI reports provide in-depth data visualizations.
+
+
+
+
