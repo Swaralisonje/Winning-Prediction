@@ -12,8 +12,7 @@ This project is a web application that predicts the likelihood of a country winn
 - [Data Preprocessing](#data-preprocessing)
 - [Model Training](#model-training)
 - [Results and Visualizations](#results-and-visualizations)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
